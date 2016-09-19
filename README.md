@@ -2,7 +2,7 @@
 ## non-commercial use
 ![attribution](https://globalmaps.github.io/globalmaps/attribution.png)
 ## commercial use
-![attribution](https://globalmaps.github.io/globalmaps/attribution.png)  ![inquiry](https://globalmaps.github.io/globalmaps/inquiry.png)
+![attribution](https://globalmaps.github.io/globalmaps/attribution.png)  ![report](https://globalmaps.github.io/globalmaps/report.png)
 
 ## note
 Credit: "Global Map of Republic of Congo © ISCGM/CERGEC"
